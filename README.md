@@ -4,19 +4,22 @@
 
 標準入力から読み込んだ数字を足す。
 
-## ダウンロードの仕方
+## ダウンロード方法
 
-* コマンドプロントを開き(git clone リポジトリのURL)を入力
-  * 次に git clone https://github.com/ユーザー名/リポジトリ名.git を入力
-    * コマンドを入力すると完了 
+* git clone git@github.com:horietatsuya1/robosys2023.git
+
+## インストール方法
+
+* $ mkdir build
+  $ cd build
+  $ cmake ..
+  $ make
+  $ make install
+
 
 ## 簡単な使い方
 
-* (cd リポジトリ名) でクローンしたリポジトリのディレクトリに移動  * リポジトリの中のコードを編集し、
-     * git add .
-       * git commit -m "変更の説明"
-         * git push origin ブランチ名
-           * を入力するとリポジトリに反映される。
+* 
 
 ## ライセンス
 
