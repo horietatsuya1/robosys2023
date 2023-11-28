@@ -11,10 +11,10 @@
 ## インストール方法
 
 * $ mkdir build
-  $ cd build
-  $ cmake ..
-  $ make
-  $ make install
+* $ cd build
+* $ cmake ..
+* $ make
+* $ make install
 
 
 ## 簡単な使い方
