@@ -6,7 +6,7 @@
 
 ## ダウンロード方法
 
-* git clone git@github.com:horietatsuya1/robosys2023.git
+* git clone <git@github.com:horietatsuya1/robosys2023.git>
 
 ## インストール方法
 
