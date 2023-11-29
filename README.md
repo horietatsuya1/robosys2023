@@ -5,16 +5,21 @@
 標準入力から読み込んだ数字を足す。
 
 ## ダウンロード方法
+```
+  git clone https://github.com/horietatsuya1/robosys2023
 
-* git clone https://github.com/horietatsuya1/robosys2023
+```
 
 ## 簡単な使い方
+```
 
  $ seq 10 > nums
  $ cat nums
  $ 1 2 3 4 5 6 7 8 9 10
  $ seq 10 | ./plus
  $ 55.0
+
+```
 
 ## ライセンス
 
